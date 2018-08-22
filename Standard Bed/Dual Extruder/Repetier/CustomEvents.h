@@ -1,0 +1,1 @@
+#define EVENT_SET_LASER(intensity) SetMyLaserIntensity(intensity);
