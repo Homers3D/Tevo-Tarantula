@@ -32,3 +32,18 @@ Welcome to the Github of the TEVO Tarantula 3D printer - you find here the lates
 
 ## Update TEVO Tarantula Firmware - Flash Motherboard
 
+
+## Testing
+
+
+## Additional links
+
+- TEVO Tarantula Infos: https://www.tevo.cn/products/3d-printers/tevo-tarantula/
+- TEVO Tarantula FAQ: https://help.tevo.cn/faq-categories/tevo-tarantula/
+
+- TEVO Website: https://www.tevo.cn/
+- TEVO Support: https://help.tevo.cn/
+
+- TEVO Official Webshop: https://tevo3dprinterstore.com
+- TEVO Aliexpress Shop: https://tevo.aliexpress.com/store/2010004
+- TEVO Amazon Store: https://www.amazon.com/stores/node/9447801011
