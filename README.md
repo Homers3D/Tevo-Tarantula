@@ -30,5 +30,5 @@ Welcome to the Github of the TEVO Tarantula 3D printer - you find here the lates
 ## Update TEVO Tarantula Firmware - Arduino
 
 
-## ## Update TEVO Tarantula Firmware - Flash Motherboard
+## Update TEVO Tarantula Firmware - Flash Motherboard
 
