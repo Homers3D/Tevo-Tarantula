@@ -38,12 +38,12 @@ Welcome to the Github of the TEVO Tarantula 3D printer - you find here the lates
 
 ## Additional links
 
-- TEVO Tarantula Infos: https://www.tevo.cn/products/3d-printers/tevo-tarantula/
-- TEVO Tarantula FAQ: https://help.tevo.cn/faq-categories/tevo-tarantula/
+- [TEVO Tarantula Infos](https://www.tevo.cn/products/3d-printers/tevo-tarantula/ "TEVO Tarantula Infos")
+- [TEVO Tarantula FAQ](https://help.tevo.cn/faq-categories/tevo-tarantula/ "TEVO Tarantula FAQ")
 
-- TEVO Website: https://www.tevo.cn/
-- TEVO Support: https://help.tevo.cn/
+- [TEVO Website](https://www.tevo.cn/ "Visit TEVO Website")
+- [TEVO Support](https://help.tevo.cn/ "Visit TEVO Support Suite")
 
-- TEVO Official Webshop: https://tevo3dprinterstore.com
-- TEVO Aliexpress Shop: https://tevo.aliexpress.com/store/2010004
-- TEVO Amazon Store: https://www.amazon.com/stores/node/9447801011
+- [TEVO Official Webshop](https://tevo3dprinterstore.com "Visit TEVO Official Webshop")
+- [TEVO Aliexpress Shop](https://tevo.aliexpress.com/store/2010004 "Visit TEVO Aliexpress Shop")
+- [TEVO Amazon Store](https://www.amazon.com/stores/node/9447801011 " Visit TEVO Amazon Store")
